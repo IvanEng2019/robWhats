@@ -1,0 +1,5 @@
+ 
+Para a correta execução
+- O BD deve apresentar o nome, a mensagem e numero no formato PPEEXXXXXXXXX e estar na mesma pasta
+- Baixe na mesma pasta o chomedrive.exe na versão atual
+- Verifique se ja tem instalado o selenium e o pandas 
